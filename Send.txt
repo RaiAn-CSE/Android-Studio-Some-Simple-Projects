@@ -1,0 +1,12 @@
+Name: Md. Robiul Hasan Raian
+Id: 191-15-12392
+Semester: 9th
+Section: PC-C
+Pervasive Computing : Theory+Lab (Spring 2022)
+
+AssalamuAlaikum Sir, I could not give Lab Performance (01)CSE-335) and first Quiz of theory(CSE-334).Everything I have done so far is given below.If you like my hard work, please forgive me.
+
+Everything had been taught in class (All Codes) : https://drive.google.com/drive/folders/1ZhUEjFBN1yS-ybtsrfIOgT_viwutFIMD?usp=sharing
+
+
+All Video Presentation For Codes:  https://drive.google.com/drive/folders/1W8NliSbZmbgg79LVk45-qY1i6_guPsTK?usp=sharing
